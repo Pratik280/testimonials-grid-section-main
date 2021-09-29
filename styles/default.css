@@ -8,7 +8,6 @@
   --clr-very-dark-grayish-blue: 217, 19%, 35%;
   --clr-very-dark-blackish-blue: 219, 29%, 14%;
   --clr-white: 0, 0%, 100%;
-  /* --clr-light-gray: 0, 0%, 81%; */
   --clr-light-gray: 210, 46%, 95%;
   --clr-bg: 210, 46%, 95%;
   --clr-light-grayish-blue: 223, 13%, 33%;
@@ -76,15 +75,6 @@ img{
 
 .fw-600{
   font-weight: 600;
-}
-
-/* line-height */
-.lh-16{
-  line-height: 1.6;
-}
-
-.lh-1{
-  line-height: 1;
 }
 
 /* font-size */

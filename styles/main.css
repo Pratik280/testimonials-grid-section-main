@@ -64,6 +64,7 @@ section {
               0 4px 3px 0 rgba(0, 0, 0, 0.05);
 }
 
+/* white spacing in between card items */
 section > *{
   padding-inline: 3rem;
 }
@@ -77,18 +78,6 @@ header{
   border-radius: 50%;
   height: 4rem;
   width: 4rem;
-}
-
-.br-light-purple{
-  border: 0.25rem solid hsl(263, 55%, 70%);
-}
-
-.br-white-gray{
-  border: 0.25rem solid hsl(263, 0%, 70%);
-}
-
-.br-dark-gray{
-  border: 0.25rem solid hsl(223, 13%, 65%);
 }
 
 header div{
@@ -108,6 +97,20 @@ section p{
   padding-bottom: 1.75rem;
 }
 
+/* border around profile image */
+.br-light-purple{
+  border: 0.25rem solid hsl(263, 55%, 70%);
+}
+
+.br-white-gray{
+  border: 0.25rem solid hsl(263, 0%, 70%);
+}
+
+.br-dark-gray{
+  border: 0.25rem solid hsl(223, 13%, 65%);
+}
+
+/* quote image */
 .one {
   position: relative;
 }
