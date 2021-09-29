@@ -12,7 +12,7 @@ autofill
 /* mobile */
 main{
   /* padding: 1.5rem 0; */
-  margin: 5rem 0;
+  padding: 5rem 0;
 }
 
 /* desktop */
@@ -25,7 +25,7 @@ main{
   }
 }
 
-/* ==== CARDS LAYOUT ==== */
+/* ==== CARDS LAYOUT USING GRID ==== */
 
 /* mobile & tablet */
 .wrapper{
@@ -72,7 +72,46 @@ section {
 }
 
 section > *{
-  padding: .75rem 3rem;
+  padding-inline: 3rem;
 }
 
+header{
+  display: flex;
+  flex-direction: row;
+}
+
+.profile-img{
+  border-radius: 50%;
+  height: 4rem;
+  width: 4rem;
+}
+
+.br-light-purple{
+  border: 0.25rem solid hsl(263, 55%, 70%);
+}
+
+.br-white-gray{
+  border: 0.25rem solid hsl(263, 0%, 70%);
+}
+
+.br-dark-gray{
+  border: 0.25rem solid hsl(223, 13%, 65%);
+}
+
+header div{
+  padding-left: 1.25rem;
+}
+
+section header{
+  padding-top: 2.25rem;
+}
+
+section h3{
+  padding-top: 2rem;
+}
+
+section p{
+  padding-top: 1.5rem;
+  padding-bottom: 1.75rem;
+}
 
