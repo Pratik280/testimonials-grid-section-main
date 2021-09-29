@@ -6,8 +6,8 @@ This is a solution to the [Testimonials grid section challenge on Frontend Mento
 
 - [Overview](#overview)
   - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
   - [Links](#links)
+  - [Screenshot](#screenshot)
 - [My process](#my-process)
   - [Built with](#built-with)
 - [Author](#author)
@@ -20,16 +20,17 @@ Users should be able to:
 
 - View the optimal layout for the site depending on their device's screen size
 
+### Links
+
+- Source Code: [Github](https://github.com/Pratik280/testimonials-grid-section-main)
+- Live Site : [https://pratik280.github.io/testimonials-grid-section-main/](https://pratik280.github.io/testimonials-grid-section-main/)
+
+
 ### Screenshot
 
 ![](assets/images/ss1.png)
 ![](assets/images/ss2.png)
 ![](assets/images/ss3.png)
-
-### Links
-
-- Source Code: [Github](https://github.com/Pratik280/testimonials-grid-section-main)
-- Live Site : [https://pratik280.github.io/testimonials-grid-section-main/](https://pratik280.github.io/testimonials-grid-section-main/)
 
 ## My process
 
